@@ -1,0 +1,212 @@
+{
+"Characters":[
+{
+"Name" : "001_Kyo_Kusanagi",
+		"MoveList":{
+			"NormalThrow":[
+			{
+			"input":"BACK|OR|FORWARD|PLUS|HP",
+			"name": "Hatsugane",
+			"pretext": "(Close by)"
+			},
+			{
+			"input": "BACK|OR|FORWARD|PLUS|HK",
+			"name":"Issetsu Seoi Nage",
+			"pretext": "(Close by)"
+			}
+			],
+			"CommandMove":[
+			{
+			"input": "FORWARD|PLUS|LK",
+			"name": "Ge-Shiki (dot) Gofu Yo"
+			},
+			{
+			"input": "DOWN-FORWARD|PLUS|HK",
+			"name": "88 Shiki"
+			},
+			{
+			"input": "DOWN|PLUS|HP",
+			"name": "Ge-Shiki (dot) Naraku Otoshi",
+			"pretext":"(In air)"
+			}
+			],
+            "SpecialMove":[
+			{
+			"input": "DP|PLUS|LP|OR|HP",
+			"name":"100 Shiki (dot) Oniyaki",
+			"description": "EX Version OK"
+			},
+			{
+			"input":"RDP|PLUS|LK|OR|HK",
+			"name":"R.E.D. KicK",
+			"description":"EX Version OK"
+			},
+			{
+			"input":"QCF|PLUS|LK|OR|HK",
+			"name":"75 Shiki (dot) Kai",
+			"description":"EX Version OK"
+			},
+			{
+			"input": "LK|OR|HK",
+			"name":"75 Shiki (dot) Kai (Follow Up)",
+			"pretext":"LK|OR|HK 75 Shiki (dot) Kai"
+			},
+			{
+			"input":"QCF|PLUS|LP",
+			"name":"114 Shiki (dot) Aragami"
+			},
+			{
+			"input": "QCF|PLUS|LP|OR|HP",
+			"name":"128 Shiki (dot) Konokizu",
+			"pretext":"(114 Shiki (dot) Aragami)"
+			},{
+			"input": "LK|OR|HK",
+			"name":"125 Shiki (dot) Nanase",
+			"pretext":"(128 Shiki (dot) Konokizu)"
+			},{
+			"input": "LP|OR|HP",
+			"name":"127 Shiki (dot) Yanosabi(1)",
+			"pretext":"(128 Shiki (dot) Konokizu)"
+			},{
+			"input": "HCB|PLUS|LP|OR|HP",
+			"name":"127 Shiki (dot) Yanosabi(2)",
+			"pretext":"(114 Shiki (dot) Aragami)"
+			},{
+			"input": "LP|OR|HP",
+			"name":"Ge-Shiki (dot) Migari Ugachi",
+			"pretext":"(127 Shiki (dot) Yanosabi(2)"
+			},{
+			"input": "HCB|PLUS|LK|OR|HK",
+			"name":"124 Shiki (dot) Munotsuchi",
+			"pretext":"(114 Shiki (dot) Aragami)"
+			},{
+			"input": "LK|OR|HK",
+			"name":"427 Shiki (dot) Hikigane",
+			"pretext":"(124 Shiki (dot) Munotsuchi)"
+			},{
+			"input": "LP|OR|HP",
+			"name":"Ge-Shiki (dot) Tsurubeotoshi",
+			"pretext":"(124 Shiki (dot) Munotsuchi)"
+			},{
+			"input": "QCF|PLUS|HP",
+			"name":"115 Shiki (dot) Dokugami",
+			"description": "EX Version OK"
+			},{
+			"input": "QCB|PLUS|LP|OR|HP",
+			"name":"401 Shiki (dot) Tusmiyomi",
+			"pretext":"(115 Shiki (dot) Dokugami)"
+			},{
+			"input": "FORWARD|PLUS|LP|OR|HP",
+			"name":"402 Shiki (dot) Batsuyomi",
+			"pretext":"(401 Shiki (dot) Tsumiyomi)"
+			},{
+			"input": "DP|PLUS|LP|OR|HP",
+			"name":"100 Shiki (dot) Oniyaki",
+			"pretext":"(402 Shiki (dot) Batsuyomi)"
+			},{
+			"input": "HCB|PLUS|LK|OR|HK",
+			"name":"212 Shiki (dot) Kototsuki Yo",
+			"description": "EX Version OK"
+			}
+			],
+             "SuperSpecialMove":[
+			 {
+			"input":"QCB|PLUS|HCF|PLUS|LP|OR|HP (Hold OK)",
+			"name":"Ura 108 Shiki (dot) Orochinagi",
+			"description": "MAX Version OK"
+			 },
+			 {
+			"input":"QCF|QCF|PLUS|LP|OR|HP",
+			"name":"182 Shiki",
+			"description":"MAX Version OK"
+			}
+			],
+             "ClimaxSuperSpecialMove":[
+			 {
+		    "input":"QCB|QCB|PLUS|LP|HP",
+			"name":"Ura 1127 Shiki (dot) Yaegaki"
+			 }
+			 ]			
+		}
+},
+{
+"Name": "028_Geese"
+},
+{
+	"Name" : "029_Billy_Kane",
+		"MoveList":{
+			"NormalThrow":[
+			{
+			"input":"BACK|OR|FORWARD|PLUS|HP",
+			"name": "Jigoku Otoshi",
+			"pretext": "(Close by)"
+			},
+			{
+			"input": "BACK|OR|FORWARD|PLUS|HK",
+			"name":"Ippon Tsuri Nage",
+			"pretext": "(Close by)"
+			}
+			],
+			"CommandMove":[
+			{
+			"input": "FORWARD|PLUS|LP",
+			"name": "Dai Kaiten-Geri"
+			},
+			{
+			"input": "FORWARD|PLUS|LK",
+			"name": "Boutakatobi-Geri"
+			},
+			{
+			"input": "DOWN|PLUS|HP",
+			"name": "Chokka Uchi",
+			"pretext":"(In air)"
+			}
+			],
+            "SpecialMove":[
+			{
+			"input": "LP|OR|HP",
+			"name":"Senpuu Kon",
+			"pretext": "(Repeatedly)",
+			"description": "EX Version OK"
+			},
+			{
+			"input":"HCF|PLUS|LP|OR|HP",
+			"name":"Sansetsu Kon Chuudan Uchi",
+			"description":"EX Version OK"
+			},
+			{
+			"input":"QCF|PLUS|LP|OR|HP",
+			"name":"Kaen Sansetsu Kon Chuudan Uchi",
+			"pretext":"(HP or EX Sansetsu Kon Chuudan Uchi)"
+			},
+			{
+			"input": "DP|PLUS|LK|OR|HK",
+			"name":"Kyoushuu Hishou Kon"
+			},
+			{
+			"input":"QCB|PLUS|LP|OR|HP",
+			"name":"Suzume Otoshi"
+			}
+			],
+             "SuperSpecialMove":[
+			 {
+			"input":"QCF|HCB|PLUS|LP|OR|HP",
+			"name":"Chou Kaen Senpuu Kon",
+			"description": "MAX Version OK"
+			 },
+			 {
+			"input":"QCF|QCF|PLUS|LK|OR|HK",
+			"name":"Guren Sakkon",
+			"description":"MAX Version OK"
+			}
+			],
+             "ClimaxSuperSpecialMove":[
+			 {
+		    "input":"QCF|QCF|PLUS|LP|HP",
+			"name":"Sakkon (dot) Dai Shounetsu"
+			 }
+			 ]			
+		}
+	}
+]
+}
