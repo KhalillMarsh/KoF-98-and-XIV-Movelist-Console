@@ -1,0 +1,133 @@
+{
+"Characters":[
+{
+"Name" : "034_Heavy_D!",
+		"MoveList":{
+			"NormalThrow":[
+			{
+			"name": "Stomach Buster",
+			"pretext": "(Close by)",
+			"input":"BACK|OR|FORWARD|PLUS|HP"
+			},
+			{
+			"name":"Reverse Stomach Buster",
+			"pretext": "(Close by)",
+			"input": "BACK|OR|FORWARD|PLUS|HK"
+			}
+			],
+			"CommandMove":[
+			{
+			"name": "Rock Crush",
+			"input": "FORWARD|PLUS|LP"
+			}
+			],
+            "SpecialMove":[
+			{
+			"name":"Ducking Combination",
+			"input": "QCB|PLUS|LP|OR|HP",
+			"description": "(Can enter 2 times in a row.)"
+			},
+			{
+			"name":"Dancing Beat",
+			"input":"DP|PLUS|LP|OR|HP",
+			"pretext":"(Near opponent)"
+			},
+			{
+			"name":"Soul Flower",
+			"input":"QCB|PLUS|HCF|PLUS|LK|OR|HK"
+			},
+			{
+			"name":"Shadow",
+			"input": "D|D|PLUS|LP|OR|HP"
+			},
+			{
+			"name":"R·S·D",
+			"input":"QCF|PLUS|LP|OR|HP"
+			},
+			{
+			"name":"Blast Upper",
+			"input": "QCF|PLUS|LK|OR|HK"
+			}
+			],
+             "SuperSpecialMove":[
+			 {
+			"name":"D.Crazy",
+			"input":"QCB|PLUS|HCF|PLUS|LP|OR|HP"
+			 },
+			 {
+			"name":"D.Magnum",
+			"input":"QCF|QCF|PLUS|LP|OR|HP",
+			"description": "(push down to hold)"
+			},
+			{
+			"name":"D.Shadow",
+			"input":"QCF|QCF|PLUS|LK|OR|HK"
+			}
+			]			
+		}		
+},
+{
+"Name" : "035_Lucky",
+		"MoveList":{
+			"NormalThrow":[
+			{
+			"name": "Dunk Buster",
+			"pretext": "(Close by)",
+			"input":"BACK|OR|FORWARD|PLUS|HP"
+			},
+			{
+			"name":"Lucky Crush",
+			"pretext": "(Close by)",
+			"input": "BACK|OR|FORWARD|PLUS|HK"
+			}
+			],
+			"CommandMove":[
+			{
+			"name": "Dunk Drop",
+			"pretext": "(In air)",
+			"input": "DOWN|PLUS|LP"
+			},
+			{"name": "Lucky Kick",
+			"input": "FORWARD|PLUS|HK"
+			}
+			],
+            "SpecialMove":[
+			{
+			"name":"Death Bound",
+			"input": "QCF|PLUS|LP|OR|HP"
+			},
+			{
+			"name":"Death Dunk",
+			"input":"QCB|PLUS|LP|OR|HP"
+			},
+			{
+			"name":"Death Shoot",
+			"input":"D|D|PLUS|LP|OR|LK|OR|HP|OR|HK"
+			},
+			{
+			"name":"Cyclone Break",
+			"input": "QCB|PLUS|LK|OR|HK"
+			},
+			{
+			"name":"Death Wheel",
+			"input":"DP|PLUS|LK|OR|HK"
+			},
+			{
+			"name":"Lucky Vision",
+			"input": "QCF|PLUS|LK|OR|HK"
+			}
+			],
+             "SuperSpecialMove":[
+			 {
+			"name":"Hell Bound",
+			"input":"QCF|QCF|PLUS|LP|OR|HP"
+			 },
+			 {
+			"name":"Lucky Driver",
+			"pretext": "(Close by)",
+			"input":"QCF|QCF|PLUS|LK|OR|HK"
+			}
+			]			
+		}
+}
+]}
